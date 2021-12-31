@@ -1,4 +1,4 @@
-Para iniciar, basta seguir os seguintes passos.:
+# Para iniciar, basta seguir os seguintes passos.:
 
 1-) Depois de clonar o repositório, inicie o terraform.:
     terraform init
