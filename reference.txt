@@ -1,0 +1,8 @@
+Links para Referência.:
+
+https://kind.sigs.k8s.io/
+https://github.com/kubernetes/ingress-nginx
+https://github.com/kyma-incubator/terraform-provider-kind
+https://nickjanetakis.com/blog/using-envsubst-to-merge-environment-variables-into-config-files
+https://github.com/kubernetes-sigs/kind/issues/1693
+https://kubernetes.io/docs/tasks/tools/
