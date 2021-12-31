@@ -1,6 +1,6 @@
 Para iniciar, basta seguir os seguintes passos.:
 
-1-) Inicie o terraform.:
+1-) Depois de clonar o repositório, inicie o terraform.:
     terraform init
 
 2-) Execute o script start.sh
